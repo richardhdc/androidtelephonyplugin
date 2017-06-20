@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android" id="com.hdcplugin.androidtelephony"
     version="1.0.0">
     <name>AndroidTelephonyPlugin</name>
-    <description>Android Telephony Plugin</description>
+    <description>Set Android Telephony feature to not required.</description>
     <author>HDC</author>
     <keywords>android,telephony</keywords>
     <license>Apache 2.0 License</license>
