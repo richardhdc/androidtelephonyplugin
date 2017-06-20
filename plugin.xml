@@ -9,7 +9,7 @@
     <license>Apache 2.0 License</license>
     <repo>https://github.com/richardhdc/androidtelephonyplugin</repo>
     <platform name="android">
-        <config-file target="config.xml" parent="/*">
+        <config-file target="AndroidManifest.xml" parent="/manifest">
             <uses-sdk android:minSdkVersion="14"
                 android:targetSdkVersion="19" />
             <uses-feature android:name="android.hardware.telephony"
