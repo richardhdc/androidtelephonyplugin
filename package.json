@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "name": "cordova-plugin-android-telephony",
+  "cordova_name": "AndroidTelephonyPlugin",
+  "description": "Set Android Telephony feature to not required.",
+  "license": "Apache 2.0 License",
+  "repo": "https://github.com/richardhdc/androidtelephonyplugin",
+  "issue": "",
+  "keywords": ["android", "telephony"],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
